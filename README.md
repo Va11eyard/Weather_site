@@ -68,12 +68,12 @@ A web application that provides weather information, a translator, and interesti
 - **Body-parser:** Middleware for parsing incoming request bodies.
 - **Axios:** Handles HTTP requests.
 - **Path:** Helps manage file paths.
-- **Nodemon** Monitors for changes and automatically restarts the server.
+- **Nodemon:** Monitors for changes and automatically restarts the server.
 
 ## APIs Used
-- OpenWeatherMap API - For weather data.
-- Google Cloud Translate API - to translate text into certain languages.
-- Numbersapi - to get interesting facts about the numbers.
+- **OpenWeatherMap API** - For weather data.
+- **Google Cloud Translate API** - to translate text into certain languages.
+- **Numbersapi** - to get interesting facts about the numbers.
 
 
 ### Author
