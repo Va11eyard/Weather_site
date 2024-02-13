@@ -63,6 +63,9 @@ A web application that provides weather information, a translator, and interesti
 - username: Dinmukhammed
 - password: Dinmukhammed2207
 
+## Admin page:
+In order to get access to the admin page use this: https://assignment3-sloo.onrender.com/admin/65ca5a4c1acba6b9537cc277 
+
 ## Dependencies
 - **Express:** Used for server setup and routing.
 - **Body-parser:** Middleware for parsing incoming request bodies.
